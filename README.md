@@ -18,7 +18,7 @@ LabelFlow is a small, focused Android utility built for people who need a correc
 
 | Launch | Help | Activation | Export |
 |---|---|---|---|
-| ![launch](assets/r1_launch.png) | ![help](assets/r2_help.png) | ![activation](assets/r3_actdialog.png) | ![export](assets/r11_export_allowed.png) |
+| ![launch](r1_launch.png) | ![help](r2_help.png) | ![activation](r3_actdialog.png) | ![export](r11_export_allowed.png) |
 
 *(Screenshots from the current build; the v0.1.7 APK in this repo has the same UI.)*
 
